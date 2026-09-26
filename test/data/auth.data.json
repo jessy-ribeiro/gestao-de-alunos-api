@@ -1,0 +1,17 @@
+{
+  "loginAdmin": {
+    "email": "admin@escola.com",
+    "senha": "admin123"
+  },
+  "aluno": {
+    "nome": "João Novo Aluno",
+    "email": "joao.novo@example.com",
+    "matricula": "2024999",
+    "senha": "123456"
+  },
+  "trabalho": {
+    "disciplinaId": "disciplina-programacao-web",
+    "titulo": "Éntrega do trabalho",
+    "descricao": "Entrega realizada."
+  }
+}
